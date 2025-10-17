@@ -32,6 +32,7 @@ public class Pr {
             System.out.println("El resto de " + num + " / " + num2 + " = " + resto);
             
             System.out.println("Primera linea");
+            System.out.println("Segunda linea");
             
             
        
