@@ -32,7 +32,7 @@ public class Pr {
             System.out.println("El resto de " + num + " / " + num2 + " = " + resto);
             
             System.out.println("Cambio ejercicio 40 alumno a1");
-            System.out.println("Cambio de Antonio");
+            System.out.println("Cambio de Alumno A");
 
            
        
