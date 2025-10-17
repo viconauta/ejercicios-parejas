@@ -33,7 +33,7 @@ public class Pr {
             
             System.out.println("Cambio ejercicio 40 alumno a1");
             System.out.println("Cambio de Alumno A");
-
+            System.out.println("Cambio de Alumno B");
            
        
     }
